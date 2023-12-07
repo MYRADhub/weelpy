@@ -1,0 +1,52 @@
+{
+  "name": "checkit",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@eva-design/eva": "^2.2.0",
+    "@mui/material": "^5.14.12",
+    "@react-native-community/datetimepicker": "7.2.0",
+    "@react-native-community/viewpager": "^5.0.11",
+    "@react-navigation/bottom-tabs": "^6.5.9",
+    "@react-navigation/native": "^6.1.8",
+    "@react-navigation/native-stack": "^6.9.14",
+    "@react-navigation/stack": "^6.3.18",
+    "@ui-kitten/components": "^5.3.1",
+    "axios": "^1.5.1",
+    "eas": "^0.1.0",
+    "expo": "~49.0.13",
+    "expo-dev-client": "^2.4.11",
+    "expo-device": "~5.4.0",
+    "expo-notifications": "~0.20.1",
+    "expo-status-bar": "~1.6.0",
+    "expo-updates": "^0.18.15",
+    "firebase": "^10.4.0",
+    "moment": "^2.29.4",
+    "native-notify": "^3.2.0",
+    "pocketbase": "^0.18.2",
+    "react": "18.2.0",
+    "react-native": "0.72.5",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-maps": "1.7.1",
+    "react-native-modal": "^13.0.1",
+    "react-native-paper": "^5.10.6",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-screens": "~3.22.0",
+    "react-native-svg": "13.9.0",
+    "react-native-tab-view": "^3.5.2",
+    "react-native-vector-icons": "^10.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
