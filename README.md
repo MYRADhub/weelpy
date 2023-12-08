@@ -1,4 +1,4 @@
 # weelpy
-## ** Setup: **
+## Setup:
 npm install
 npx expo start
