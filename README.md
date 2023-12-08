@@ -1,4 +1,4 @@
 # weelpy
 ## Setup:
-```npm install```
+```npm install```\
 ```npx expo start```
